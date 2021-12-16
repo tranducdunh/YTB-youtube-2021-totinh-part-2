@@ -1,9 +1,9 @@
 // 1. Chỉnh sửa các dòng chữ theo mục đích của bạn
 const CONFIG = {
-    introTitle: '🖐🖐🖐 Hee loo ! 🖐🖐🖐',
-    introDesc: `Anh có điều này muốn hỏi Em, Em nhớ phải trả lời thật lòng nha`,
+    introTitle: '🖐🖐🖐 Hee luu cậu ! 🖐🖐🖐',
+    introDesc: `tớ có điều này muốn hỏi cậu, cậu nhớ phải trả lời thật lòng nha`,
     btnIntro: 'OK',
-    title: 'Anh biết Em thích Anh phải không phải không ? 😙',
+    title: 'tớ biết cậu thích tớ phải không phải không ? 😙',
     desc: 'Em không trả lời hoặc thoát ra, tức là Em thích Anh đó nha :> ',
     btnYes: 'Có, tớ thật sự thích cậu 💖💖💖',
     btnNo: '💔 cậu mơ à ! 💔 ',
